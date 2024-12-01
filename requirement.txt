@@ -1,0 +1,8 @@
+streamlit
+cv2
+numpy
+os
+glob
+mahotas
+scikit-learn
+matplotlib
