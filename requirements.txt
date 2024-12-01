@@ -3,3 +3,4 @@ opencv-python
 mahotas
 scikit-learn
 matplotlib
+numpy
