@@ -1,11 +1,11 @@
 import streamlit as st
-import cv2
 import numpy as np
 import os
 import glob
 import mahotas as mt
 from sklearn.svm import LinearSVC
 import matplotlib.pyplot as plt
+import cv2
 
 # Function to convert RGB to XYZ
 def rgb_to_xyz(rgb):
