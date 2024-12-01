@@ -1,8 +1,5 @@
 streamlit
 opencv-python
-numpy
-os
-glob
 mahotas
 scikit-learn
 matplotlib
